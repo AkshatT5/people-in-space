@@ -12,3 +12,4 @@ The app will display the current number of people in space, along with their nam
 Contributions are welcome! If you find a bug or would like to add a new feature, please open an issue or submit a pull request.
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
+# Preview
