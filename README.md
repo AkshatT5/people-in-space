@@ -13,3 +13,4 @@ Contributions are welcome! If you find a bug or would like to add a new feature,
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 # Preview
+![Preview](preview.jpeg)
