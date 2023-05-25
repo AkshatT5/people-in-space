@@ -7,7 +7,7 @@ const PeopleInSpace = () => {
     useEffect(() => {
         const fetchPeopleInSpace = async () => {
             try {
-                const response = await axios.get('/api.open-notify.org/astros.json');
+                const response = await axios.get('http://api.open-notify.org/astros.json');
                 setPeopleInSpace(response.data.people);
             } catch (error) {
                 console.error('Error fetching data:', error);
